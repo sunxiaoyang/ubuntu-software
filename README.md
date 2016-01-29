@@ -37,4 +37,6 @@ Ubuntu 的安装及其软件的使用说明
 
 1. [安装 Eclipse](./eclipse.md)
 2. [安装 Sublime Text 2](./sublime-text-2.md)
-3. [安装 XAMPP](./xampp.md)
+3. [安装 XAMPP](./xampp.md)   
+
+[Icon主题安装](./icon-theme.md)
