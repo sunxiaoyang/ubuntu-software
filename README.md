@@ -9,42 +9,32 @@ Ubuntu 的安装及其软件的使用说明
 ---
 
 #### 目录
-准备知识
+[DEB 包的安装](./deb.md)
 
-1. [DEB 包的安装](./deb.md)
+[Ubuntu 版本升级](./upgrade.md)
 
-Ubuntu 版本升级
-
-安装 NVIDIA 显卡驱动
+[安装 NVIDIA 显卡驱动](./nvidia.md)
 
 常用管理工具
 
-1. Ubuntu Tweak
-2. Unity Tweak Tool
-3. Compizconfig-Setting-Mananger
-4. TLP
-5. SSH-SERVER
+1. [Ubuntu Tweak](./ubuntu-tweak.md)
+2. [Unity Tweak Tool](./unity-tweak-tool.md)
+3. [Compizconfig-Setting-Mananger](./compizconfig-setting-mananger.md)
+4. [TLP](./tlp.md)
+5. [SSH-SERVER](./ssh-server.md)
 
-安装搜狗输入法
+[安装搜狗输入法](./input-method.md)
 
-安装 WPS Office
+[安装 WPS Office](./wps-office.md)
 
-安装 Google Chrome
+[安装 Chromium-browser](./chromium-browser.md)
 
-安装坚果云
+[安装坚果云](./坚果云.md)
 
-安装 uget+aria2 下载工具
-
-安装图像影音软件
-
-1. 安装 VLC Media Player
-2. 安装 GIMP 图像处理程序
-3. 安装 Audacity
+[安装 uget+aria2 下载工具](./uget+aria2.md)
 
 安装常用软件开发环境
 
-1. 安装 Code::Blocks
-2. 安装 Eclipse
-3. 安装 Sublime Text 2
-4. 安装 XAMPP
-5. 安装 Android Studio
+1. [安装 Eclipse](./eclipse.md)
+2. [安装 Sublime Text 2](./sublime-text-2.md)
+3. [安装 XAMPP](./xampp.md)
