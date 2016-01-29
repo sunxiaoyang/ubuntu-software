@@ -29,7 +29,7 @@ Ubuntu 的安装及其软件的使用说明
 
 [安装 Chromium-browser](./chromium-browser.md)
 
-[安装坚果云](./坚果云.md)
+[安装坚果云](./nutstore.md)
 
 [安装 uget+aria2 下载工具](./uget+aria2.md)
 
