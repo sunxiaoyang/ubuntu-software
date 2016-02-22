@@ -7,7 +7,7 @@
 1. 在官网 [http://community.wps.cn/download/](http://community.wps.cn/download/)下载合适的版本
 2. 双击上述 deb 包，通过软件中心进行安装
 3. 安装完成后，打开 WPS，一般都会提示缺少字体的错误，则可以通过安装 windows 下常用字体来解决
-4. 鼠标放在错误信息处，会列出缺少的字体名称，经常缺少的有（webdings.ttf，wingding.ttf，wingdng2.ttf，wingdng3.ttf，mtextra.ttf）
+4. 鼠标放在错误信息处，会列出缺少的字体名称，经常缺少的有（symbol.ttf, webdings.ttf，wingding.ttf，wingding2.ttf，wingding3.ttf，mtextra.ttf）
 
 #### 安装 Windows 下常用字体
 
