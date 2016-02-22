@@ -31,6 +31,8 @@ Ubuntu 的安装及其软件的使用说明
 
 [安装坚果云](./nutstore.md)
 
+[安装金山快盘](./kuaipan.md)
+
 [安装 uget+aria2 下载工具](./uget+aria2.md)
 
 安装常用软件开发环境
