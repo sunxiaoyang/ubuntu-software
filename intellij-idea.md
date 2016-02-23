@@ -21,4 +21,19 @@ Comment=Develop with pleasure!
 Categories=Development;IDE;   
 Terminal=false   
 StartupWMClass=jetbrains-idea-iu   
+
+4》 注册破解
+>仅供学习之用，建议有能力者进行购买。   
+
+注册时选择License server输入   
+**IDEA 15**   
+http://15.idea.lanyus.com   
+**IDEA 14**   
+http://idea.lanyus.com/（网友赞助服务器）   
+http://0.idea.lanyus.com   
+http://1.idea.lanyus.com   
+http://2.idea.lanyus.com   
+http://3.idea.lanyus.com   
+http://4.idea.lanyus.com   
+http://5.idea.lanyus.com   
  
