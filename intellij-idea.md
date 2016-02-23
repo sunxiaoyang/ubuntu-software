@@ -11,14 +11,14 @@
 >sudo gedit /usr/share/applications/jetbrains-idea-iu.desktop   
 
 在弹出的编辑窗口中输入以下内容   
->[Desktop Entry]
-Version=15.0
-Type=Application
-Name=IDEA Ultimate Edition
-Icon=/opt/idea-IU/bin/idea.png
-Exec="/opt/idea-IU/bin/idea.sh" %f
-Comment=Develop with pleasure!
-Categories=Development;IDE;
-Terminal=false
-StartupWMClass=jetbrains-idea-iu
+>[Desktop Entry]   
+Version=15.0   
+Type=Application   
+Name=IDEA Ultimate Edition   
+Icon=/opt/idea-IU/bin/idea.png   
+Exec="/opt/idea-IU/bin/idea.sh" %f   
+Comment=Develop with pleasure!   
+Categories=Development;IDE;   
+Terminal=false   
+StartupWMClass=jetbrains-idea-iu   
  
