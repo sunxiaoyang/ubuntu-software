@@ -22,7 +22,11 @@ Categories=Development;IDE;
 Terminal=false   
 StartupWMClass=jetbrains-idea-iu   
 
-4》 注册破解
+4》 安装JDK   
+若本机还未安装JDK，可使用命令进行安装   
+>sudo apt-get install openjdk-8-jdk
+
+5》 注册破解
 >仅供学习之用，建议有能力者进行购买。   
 
 注册时选择License server输入   
@@ -36,4 +40,5 @@ http://2.idea.lanyus.com
 http://3.idea.lanyus.com   
 http://4.idea.lanyus.com   
 http://5.idea.lanyus.com   
+
  
