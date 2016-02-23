@@ -44,4 +44,4 @@ Ubuntu 的安装及其软件的使用说明
 
 [安装Icon主题](./icon-theme.md)
 
-[安装Terminator](./terminator.md)
+[安装 Terminator](./terminator.md)
