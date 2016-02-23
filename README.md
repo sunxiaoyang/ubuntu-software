@@ -41,6 +41,7 @@ Ubuntu 的安装及其软件的使用说明
 2. [安装 Sublime Text 2](./sublime-text-2.md)
 3. [安装 XAMPP](./xampp.md)   
 4. [安装 ReText](./retext.md)
+5. [安装 IntelliJ IDEA](./intellij-idea.md)
 
 [安装Icon主题](./icon-theme.md)
 
