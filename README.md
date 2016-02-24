@@ -47,4 +47,6 @@ Ubuntu 的安装及其软件的使用说明
 
 [安装 Terminator](./terminator.md)
 
-[安装 gpick 取色器](./gpick.md)
+[安装 Gpick 取色器](./gpick.md)
+
+[安装 GitLab 版本控制器](./gitlab.md)
