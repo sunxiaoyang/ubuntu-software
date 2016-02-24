@@ -15,7 +15,8 @@
 >sudo vim /etc/gitlab/gitlab.rb
 
 配置样例：   
-external_url 'http://192.168.0.253'   
+external_url 'http://192.168.0.253'  
+ 
 ---
 gitlab_rails['time_zone'] = 'Asia/Shanghai'   
 gitlab_rails['gitlab_email_enabled'] = true   
@@ -23,6 +24,7 @@ gitlab_rails['gitlab_email_from'] = 'my.email@gmail.com'
 gitlab_rails['gitlab_email_display_name'] = 'GitLab'   
 gitlab_rails['gitlab_email_reply_to'] = 'my.email@gmail.com'   
 gitlab_rails['gitlab_default_theme'] = 2   
+
 ---
 gitlab_rails['smtp_enable'] = true   
 gitlab_rails['smtp_address'] = "smtp.gmail.com"   
@@ -34,9 +36,11 @@ gitlab_rails['smtp_authentication'] = "login"
 gitlab_rails['smtp_enable_starttls_auto'] = true   
 gitlab_rails['smtp_tls'] = false   
 gitlab_rails['smtp_openssl_verify_mode'] = 'peer' # Can be: 'none', 'peer', 'client_once', 'fail_if_no_peer_cert', see http://api.rubyonrails.org/classes/ActionMailer/Base.html
+
 ---
 nginx['listen_addresses'] = ['192.168.0.253']   
 nginx['listen_port'] = 80   
+
 ---
 
 4》开启GitLab服务
