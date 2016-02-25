@@ -18,6 +18,7 @@
 external_url 'http://192.168.0.253'  
  
 ---
+**以下仅供参考（简单使用不需要配置）**   
 gitlab_rails['time_zone'] = 'Asia/Shanghai'   
 gitlab_rails['gitlab_email_enabled'] = true   
 gitlab_rails['gitlab_email_from'] = 'my.email@gmail.com'   
@@ -46,7 +47,10 @@ nginx['listen_port'] = 80
 4》开启GitLab服务
 >sudo gitlab-ctl reconfigure
 
-5》访问并登陆   
+5》重启邮件服务
+>sudo service postfix restart
+
+6》访问并登陆   
 在浏览器输入主机IP   
 Username: root    
 Password: 5iveL!fe   
