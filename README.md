@@ -43,7 +43,7 @@ Ubuntu 的安装及其软件的使用说明
 4. [安装 ReText](./retext.md)
 5. [安装 IntelliJ IDEA](./intellij-idea.md)
 
-[安装Icon主题](./icon-theme.md)
+[安装 Icon主题](./icon-theme.md)
 
 [安装 Terminator](./terminator.md)
 
@@ -54,3 +54,5 @@ Ubuntu 的安装及其软件的使用说明
 [安装 oh-my-zsh](./oh-my-zsh.md)
 
 [Git-prompt](./git-prompt.md)
+
+[安装 synergy](./synergy.md)

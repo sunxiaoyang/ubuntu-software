@@ -14,3 +14,6 @@ sudo apt-get install chromium-browser
  记录经常访问的网页和访问时间，并将其排名。
 * New Tong Wen Tang   
  简体和繁体之间的转换。
+ 
+### Google-chrome
+ google-chrome可以在官网下载各种版本进行安装，由于墙的原因，这里有[32位和64位deb包](./files/google-chrome/)使用。
