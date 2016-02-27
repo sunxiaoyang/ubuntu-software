@@ -50,3 +50,5 @@ Ubuntu 的安装及其软件的使用说明
 [安装 Gpick 取色器](./gpick.md)
 
 [安装 GitLab 版本控制器](./gitlab.md)
+
+[安装 oh-my-zsh](./oh-my-zsh.md)
