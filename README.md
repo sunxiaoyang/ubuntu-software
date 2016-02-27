@@ -56,4 +56,4 @@ Ubuntu 的安装及其软件的使用说明
 
 [Git-prompt](./git-prompt.md) `*Git高亮和补全*`
 
-[安装 Synergy](./synergy.md) `*多平台鼠标键盘共享软件*`
+[安装 Synergy](./synergy.md) *`多平台鼠标键盘共享软件`*
