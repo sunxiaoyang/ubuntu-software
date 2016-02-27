@@ -55,4 +55,4 @@ Ubuntu 的安装及其软件的使用说明
 
 [Git-prompt](./git-prompt.md)
 
-[安装 synergy](./synergy.md)
+[安装 Synergy](./synergy.md)`多平台鼠标键盘共享软件`
