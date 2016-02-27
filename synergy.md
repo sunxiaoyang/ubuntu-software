@@ -1,6 +1,6 @@
 # synergy
 多平台鼠标键盘共享软件   
->源码来自[synergy](https://github.com/synergy/synergy)   
+>源码来自[synergy](https://github.com/symless/synergy)   
 >本文所需文件[synergy](./files/synergy/)   
 
 ### 使用说明
