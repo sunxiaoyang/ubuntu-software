@@ -8,7 +8,7 @@
 若使用Postfix发送邮件，则在安装时选择“Internet Site”
 
 2》安装GitLab服务
->curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
+>curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash   
 >sudo apt-get install gitlab-ce
 
 3》常用配置
