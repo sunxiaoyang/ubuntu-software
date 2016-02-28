@@ -14,3 +14,5 @@
 
 4》 样例配置文件和壁纸
 [HERE](./files/conky)
+
+![样图](./images/conky-view.png)
