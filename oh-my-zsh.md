@@ -5,7 +5,7 @@
 1. ~$: sudo apt-get install zsh   
 2. 检测是否安装成功 ( ~$: zsh --version )   
 3. 将 Zsh 设置为默认shell ( ~$: chsh -s $(which zsh) )   
-4. 需要注销一下用户重新登陆
+4. 需要注销一下用户重新登陆   
 5. 检测是否设置成功( ~$: echo $SHELL )   
 
 2》 安装 curl 或 wget   
@@ -13,7 +13,10 @@
 ~$: sudo apt-get install curl   
 ~$: sudo apt-get install wget   
 
-3》 安装 oh-my-zsh   
+3》 安装 Git   
+~$: sudo apt-get install git   
+
+4》 安装 oh-my-zsh   
 ~$: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"   
 或者   
 ~$: sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"   
