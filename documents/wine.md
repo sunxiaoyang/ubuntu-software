@@ -21,8 +21,8 @@ If you prefer to use the Staging branch, replace `winehq-devel` with `winehq-sta
 
 ### 中文显示方框问题
 在终端在运行 wine regedit 并找到   
-`[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]   `
+`[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]   `   
 然后在里面添加：   
-        "Arial"="SIMSUN.TTC, SimSun"   
-        "Arial Black"="SIMSUN.TTC, SimSun"      
+            `"Arial"="SIMSUN.TTC, SimSun"`    
+            `"Arial Black"="SIMSUN.TTC, SimSun"`      
 然后将Windows下的Fonts文件夹拷贝至 ~/.wine/drive_c/windows/Fonts 目录下  
