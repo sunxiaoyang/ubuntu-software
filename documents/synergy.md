@@ -1,7 +1,7 @@
 # synergy
 多平台鼠标键盘共享软件   
 >源码来自[synergy](https://github.com/symless/synergy)   
->本文所需文件[synergy](../attachments/synergy/)   
+>本文所需文件[synergy](../../../tree/attachments/synergy/)   
 
 ### 使用说明
 ##### 1. Ubuntu 上 synergy 的安装    
