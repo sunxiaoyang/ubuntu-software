@@ -13,6 +13,6 @@
 >开源社区里分享的 Conky 配置文件在使用时，如果发现文字无法显示的情况，将配置文件里的字体进行修改即可。
 
 4》 样例配置文件和壁纸
-[HERE](../attachments/conky)
+[HERE](../../../tree/attachments/conky)
 
 ![样图](../images/conky-view.png)
