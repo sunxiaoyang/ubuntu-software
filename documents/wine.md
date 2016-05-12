@@ -25,4 +25,4 @@ If you prefer to use the Staging branch, replace `winehq-devel` with `winehq-sta
 然后在里面添加：   
             `"Arial"="SIMSUN.TTC, SimSun"`    
             `"Arial Black"="SIMSUN.TTC, SimSun"`      
-然后将Windows下的Fonts文件夹拷贝至 ~/.wine/drive_c/windows/Fonts 目录下  
+然后将Windows下的Fonts文件夹(拷贝SimSun.TTC即可)拷贝至 ~/.wine/drive_c/windows/Fonts 目录下  
