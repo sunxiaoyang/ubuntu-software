@@ -19,6 +19,10 @@ openssh-server 已经启动,如果没有则需运行命令启动。
 
 >若打开了ubuntu下的ufw防火墙，则应配置防火墙允许22端口。
 
+开启root用户SSH权限   
+sudo vim /etc/ssh/sshd_config   
+然后将PermitRootLogin 修改为yes值，重启SSH服务即可   
+
 启动本机 SSH-SERVER, 在手机上下载 SSH-CLIENT,即可用手机链接电脑进行操控了。
 
 但最好了解一下 SHELL 命令。更多详情,大家可参考更多的网络资源。
