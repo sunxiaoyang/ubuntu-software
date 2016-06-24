@@ -61,3 +61,5 @@ Ubuntu 的安装及其软件的使用说明
 [安装 Conky](./documents/conky.md) *`高配置性监控软件`*
 
 [安装 Wine](./documents/wine.md) *`将windows程序运行于Linux环境下的工具`*
+
+[安装Thunderbird](./documents/thunderbird.md) *`邮件管理客户端，支持各种插件扩展等`*
