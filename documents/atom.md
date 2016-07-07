@@ -1,4 +1,4 @@
-# 最好用的浏览器非 chromium-browser 莫属
+# GitHub官方开发工具
 >Atom 是 Github 专门为程序员推出的一个跨平台文本编辑器。   
 >个人觉得在Linux平台下其比sublime text更加友好易用。
 
