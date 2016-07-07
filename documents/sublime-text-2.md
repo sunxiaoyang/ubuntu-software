@@ -1,6 +1,8 @@
 # 安装 Sublime Text 2
 >Sublime Text 具有漂亮的用户界面和强大的功能，例如代码缩略图，Python 的插件，代码段等。还可自定义键绑定，菜单和工具栏。Sublime Text 的主要功能包括:拼写检查，书签，完整的 Python API ， Goto 功能，即时项目切换，多选择，多窗口等等。支持 VI 命令。Sublime Text 是一个跨平台的编辑器，同时支持Windows、Linux、Mac OS X 等操作系统。
 
+>如果觉得破解和在Linux平台下中文输入的问题很麻烦的话，建议使用[Atom](./atom.md)，Github官方指定的编辑器
+
 1》 在官网 [http://www.sublimetext.com/2](http://www.sublimetext.com/2) 下载合适的版本。
 
 2》 解压文件将其命名为 sublime_text，放置/opt 文件下
