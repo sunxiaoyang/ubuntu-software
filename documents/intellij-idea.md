@@ -32,6 +32,7 @@ StartupWMClass=jetbrains-idea-iu
 注册时选择License server输入   
 **IDEA 15**   
 http://15.idea.lanyus.com   
+http://www.iteblog.com/idea/key.php   
 **IDEA 14**   
 http://idea.lanyus.com/（网友赞助服务器）   
 http://0.idea.lanyus.com   
