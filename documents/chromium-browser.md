@@ -19,6 +19,8 @@ sudo apt-get install chromium-browser
      ##div[id="project_ad_banner"]   
      ##div[class="ad-platform-tips ad-multi-tips"][node-type="share-mutil-bottom"][id="web-multi-bottom"][node-id="web-sharemultibanner"]   
      ##div[id="web-right-view"][type="4"][node-id="web-sharelinkpic"][class="ad-platform-tips"]   
+     ##div[class="ad-single-bottom ad-platform-tips"][node-id="web-sharesinglebanner"][id="web-single-bottom"]
+     ##div[class="ad-platform-tips"]
 
 * Reader View   
  类似于 safari 的阅读模式，摘取网页中的文字，排版成书籍形式。
