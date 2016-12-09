@@ -28,10 +28,10 @@ $ sudo vim /etc/modprobe.d/blacklist.conf
 
 and add the following lines
 
-# Blacklist the alternative nvidia module
-blacklist nouveau
-# Blacklist the original nvidia module
-blacklist nvidia
+      \# Blacklist the alternative nvidia module
+      blacklist nouveau
+      \# Blacklist the original nvidia module
+      blacklist nvidia
 
 then
 
@@ -39,8 +39,8 @@ $ sudo vim /etc/modules
 
 and add the following lines
 
-# Switch off discrete GPU
-bbswitch load_state=0
+      \# Switch off discrete GPU
+      bbswitch load_state=0
 
 at last update the initial ramdisk by running
 
