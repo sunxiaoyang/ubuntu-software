@@ -13,7 +13,7 @@ Ubuntu 的安装及其软件的使用说明
 
 [Ubuntu 版本升级](./documents/upgrade.md) *`版本升级步骤`*
 
-[安装 NVIDIA 显卡驱动](./documents/nvidia.md) *`英伟达显卡驱动`*
+[安装/关闭 NVIDIA 显卡驱动](./documents/nvidia.md) *`英伟达显卡驱动`*
 
 常用管理工具
 
