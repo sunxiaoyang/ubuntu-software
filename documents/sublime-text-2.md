@@ -68,4 +68,4 @@ DD9C2B251A57F2E3259E04AD9B7DB8B8
 
 按下 Ctrl+Shift+P 调出命令面板，输入 install 调出 Install Package 选项并回车，然后在列表中选中要安装的插件。
 
-6》解决中文输入问题上 https://github.com/搜索 sublime-imfix.c，编译成共享代码库，或者直接搜索编译好的libsublime-imfix文件。
+6》解决中文输入问题上 https://github.com/ 搜索 sublime-imfix.c，编译成共享代码库，或者直接搜索编译好的libsublime-imfix文件。
