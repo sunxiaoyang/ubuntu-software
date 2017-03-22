@@ -67,3 +67,18 @@ Ubuntu 的安装及其软件的使用说明
 [安装Atom](./documents/atom.md) *`跨平台的编辑器，GitHub官方开发工具`*
 
 [使用mailx](./documents/mailx.md) *`unix平台上的邮件处理工具，支持使用命令行方式操作邮件`*
+
+
+## attachments
+
+>
+> these attachments are too big     
+> if you want to download these files     
+>    and you can open the link on github then find the file     
+>       and click 'raw'     
+
+1. conky
+2. git-prompt
+3. google-chrome
+4. synergy
+5. win-fonts
