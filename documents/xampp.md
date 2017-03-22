@@ -2,6 +2,7 @@
 >XAMPP(Apache+MySQL+PHP+PERL)是一个功能强大的建 XAMPP 软件站集成软件包,非常容易安装和使用。
 
 1》 通过官网 https://www.apachefriends.org/zh_cn/index.html 下载合适的版本。
+
 2》 进入文件所在目录,运行安装命令   
     sudo chmod +x ./xampp-linux-x64-1.8.3-5-installer.run   
     sudo ./xampp-linux-x64-1.8.3-5-installer.run
