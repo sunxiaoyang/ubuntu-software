@@ -1,5 +1,5 @@
 # Git-prompt
->本文所需文件[git-prompt](../../../tree/attachments/git-prompt/)
+>本文所需文件[git-prompt](../../attachments/git-prompt/)
 
 ## Bash 中的 Git
 从 Git 源代码中获得一份 contrib/completion/git-completion.bash 文件的拷贝。 将这个文件复制到一个相对便捷的目录，例如你的 Home 目录，并且将它的路径添加到 .bashrc 中：
