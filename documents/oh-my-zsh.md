@@ -1,4 +1,4 @@
-#安装 oh-my-zsh
+# 安装 oh-my-zsh
 >oh-my-zsh是基于zsh的功能做了一个扩展，方便的插件管理、主题自定义，以及漂亮的自动完成效果。支持Git高亮，maven补全等等。
 
 1》 安装 Zsh   
