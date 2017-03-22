@@ -39,4 +39,4 @@ sudo apt-get install chromium-browser
  简体和繁体之间的转换。
  
 ### Google-chrome
- google-chrome可以在官网下载各种版本进行安装，由于墙的原因，这里有[32位和64位deb包](../../../tree/attachments/google-chrome/)使用。
+ google-chrome可以在官网下载各种版本进行安装，由于墙的原因，这里有[32位和64位deb包](../../attachments/google-chrome/)使用。
